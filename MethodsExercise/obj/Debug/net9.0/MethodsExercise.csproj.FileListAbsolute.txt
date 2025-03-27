@@ -1,0 +1,15 @@
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/bin/Debug/net9.0/MethodsExercise
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/bin/Debug/net9.0/MethodsExercise.deps.json
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/bin/Debug/net9.0/MethodsExercise.runtimeconfig.json
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/bin/Debug/net9.0/MethodsExercise.dll
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/bin/Debug/net9.0/MethodsExercise.pdb
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfo.cs
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.sourcelink.json
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.dll
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/refint/MethodsExercise.dll
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.pdb
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.genruntimeconfig.cache
+/Users/biancamargiotta/Desktop/Geoffrey/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/ref/MethodsExercise.dll
